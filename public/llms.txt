@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו את המגוון הרחב ביותר של חומרי ניקיון לעסקים ולבית. קניית חומרי ניקיון אונליין מעולם לא הייתה קלה וחכמה יותר — הזמינו עכשיו ותקבלו איכות שאפשר לסמוך עליה.
+
+### פתרונות
+https://example.com/solutions
+מחומרי חיטוי מקצועיים ועד מוצרי ביסום לבית — קלין סטוק מציעה פתרונות היגיינה מקיפים לכל עסק ולכל בית. בחרו את הפתרון שמתאים לכם והרגישו את ההבדל מהיום הראשון.
+
+### אודות
+https://example.com/about
+קלין סטוק נולדה מתוך חזון אחד: להנגיש חומרי ניקיון איכותיים לכל עסק ולכל בית בישראל. הכירו את הצוות, הערכים והמחויבות שהופכים אותנו לשם דבר בתחום אספקת הניקיון.
+
+### צור קשר
+https://example.com/contact
+יש שאלה על קניית חומרי ניקיון אונליין או צורך בהצעת מחיר לעסק? צוות קלין סטוק כאן בשבילכם. צרו קשר עכשיו ותקבלו מענה מקצועי ומהיר שיחסוך לכם זמן וכסף.
+
+### Products
+https://example.com/products
+המוצרים שלנו - קלין סטוק
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - קלין סטוק
+
+### Category
+https://example.com/category/:slug
+מוצרים - קלין סטוק
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
